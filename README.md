@@ -243,4 +243,4 @@ This repository serves as the official landing page for Ulead MediaStudio. The s
 **Get the most recent version of Ulead MediaStudio today!**
 
 ---
-**Last updated:** 2026-09-11 17:59:21 UTC
+**Last updated:** 2026-09-11 20:37:26 UTC
